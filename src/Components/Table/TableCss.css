@@ -1,0 +1,46 @@
+.Table{
+    display: grid;
+    grid-template-columns: 6rem 5rem;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    justify-content: center;
+    gap: 2px;
+    margin-bottom: 2rem;
+}
+
+.Table-column1{
+    grid-column: 1 / 2;
+    grid-row: 1 /5;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.Table-column1 p{
+    
+    padding: 1rem;
+    border: 1px solid transparent;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.Table p{
+    
+    background: white;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+.Table-column2{
+    grid-column: 2 / 3;
+    grid-row: 1 /5;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.Table-column2 p{
+    padding: 1rem;
+    border: 1px solid transparent;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}

@@ -1,0 +1,15 @@
+.MeetUs{
+    background: var(--Warm-Black);
+    padding: 4rem 2rem 2rem;
+    color: var(--Just-White);
+    text-align: center;
+}
+
+.MeetUs-principal-tittle{
+    margin-bottom: 2rem;
+}
+
+.MeetUs-secondaru-tittle{
+    color: #808080;
+    margin-bottom: 2rem;
+}

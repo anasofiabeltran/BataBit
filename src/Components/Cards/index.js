@@ -1,8 +1,10 @@
 import React from 'react'
 
+import './CardsCss.css'
+
 function Cards({img,tittle, children}) {
   return (
-    <article>
+    <article className='Cards'>
         <figure>
             <img src={img}/>
         </figure>
