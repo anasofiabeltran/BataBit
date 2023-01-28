@@ -1,0 +1,40 @@
+.Banner{
+    background: var(--banner-background);
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.Banner-image{
+    display: flex;
+    gap: 8px;
+    margin-bottom: 2rem;
+}
+
+.Banner-image figcaption{
+    color: var(--Bitcoin-Orange);
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 18px;
+    letter-spacing: -0.04em;
+
+}
+
+
+
+.Banner-tittle{
+    color: var(--Just-White);
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 26px;
+    margin-bottom: 2rem;
+}
+
+.Banner-subtittle{
+    color: var(--Soft-orange);
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+}

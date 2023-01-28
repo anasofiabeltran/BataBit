@@ -1,0 +1,23 @@
+.Main{
+    padding: 2rem;
+    text-align: center;
+}
+
+.Main figure{
+    margin-bottom: 2rem;
+}
+
+.Main-principal-tittle{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 26px;
+    margin-bottom: 2rem;
+}
+
+.Main-text{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #757575;
+    margin-bottom: 2rem;
+}
