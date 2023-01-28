@@ -1,0 +1,18 @@
+.Plans{
+    background: #E5E5E5;
+    text-align: center;
+    padding: 2rem;
+}
+.Plans-principal-tittle{
+   margin-bottom: 2rem;
+   font-weight: 700;
+    font-size: 24px;
+    line-height: 26px;
+}
+
+.Plans-secondary-tittle{
+    margin-bottom: 2rem;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+}
