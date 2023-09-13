@@ -15,7 +15,7 @@ function Plans() {
         <div className='Plans-Carousel'>
         <Carousel>
                 <div>
-                <Plan tittle="Pago Anual" price="99">
+                <Plan tittle="Pago Anual" price="99" css= "recomendated" textCallAtention="recomendado">
                 *Ahorras $129 comparado al plan mensual.
                 </Plan>
 
