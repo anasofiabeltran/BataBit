@@ -15,3 +15,7 @@ html{
   --Just-White: #FFFFFF;
   --Warm-Black: #201E1C;
 }
+
+a{
+  text-decoration: none;
+}

@@ -20,8 +20,10 @@ function Banner() {
         <p className='Banner-subtittle'>Batatabit te ayuda a navegar entre los diferentes precios y tendencias.</p>
     </section>
     <CallAtention css="CallAtention">
-      <p>Conoce Nuestros Planes </p>
-      <img src={DownArrow} />
+      <a href="#Plans">
+        <p> Conoce nuestros Planes </p>
+        <img src={DownArrow} />
+      </a>
     </CallAtention>
 
     </>

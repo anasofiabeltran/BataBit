@@ -9,7 +9,7 @@ import { Carousel } from 'react-responsive-carousel';
 
 function Plans() {
   return (
-    <section className='Plans'>
+    <section id="Plans" className='Plans'>
         <h2 className='Plans-principal-tittle'>Escoge el plan que mejor se ajuste a ti.</h2>
         <p className='Plans-secondary-tittle'>Cualquier plan te da acceso completo a nuestra plataforma.</p>
         <div className='Plans-Carousel'>

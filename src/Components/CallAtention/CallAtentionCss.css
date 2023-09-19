@@ -25,4 +25,17 @@
 .recomendated{
     background: var(--Bitcoin-Orange);
     max-width: 124px;
+    color: white;
+    height: 25px;
+    border: 1px solid;
+    border-radius: 4px;
+    font-weight: 600;
+    margin-top: -28px;
+    margin-left: 6px;
+
+}
+
+.CallAtention a{
+    display: flex;
+    gap: 1rem;
 }
