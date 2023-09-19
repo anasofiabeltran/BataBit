@@ -4,13 +4,13 @@ import './CardsCss.css'
 
 function Cards({img,tittle, children}) {
   return (
-    <article className='Cards'>
+    <div className='Cards'>
         <figure>
             <img src={img}/>
         </figure>
         <h4>{tittle}</h4>
         {children}
-    </article>
+    </div>
   )
 }
 

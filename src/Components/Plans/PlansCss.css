@@ -2,6 +2,9 @@
     background: #E5E5E5;
     text-align: center;
     padding: 2rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 }
 .Plans-principal-tittle{
    margin-bottom: 2rem;
@@ -15,4 +18,8 @@
     font-weight: 500;
     font-size: 14px;
     line-height: 18px;
+}
+
+.carousel{
+    max-width: 294px;
 }

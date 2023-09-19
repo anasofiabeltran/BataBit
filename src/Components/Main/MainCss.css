@@ -2,10 +2,14 @@
     padding: 2rem;
     text-align: center;
     background: #E5E5E5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .Main figure{
     margin-bottom: 2rem;
+    width: 22vw;
 }
 
 .Main-principal-tittle{
@@ -28,4 +32,8 @@
     font-weight: 700;
     font-size: 18px;
     line-height: 23px;
+}
+
+.Main figure img{
+    width: 100%;
 }

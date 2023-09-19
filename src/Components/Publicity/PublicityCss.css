@@ -1,5 +1,7 @@
 .Publicity{
     position: relative;
+    
+    margin-bottom: -5px;
 }
 
 .Publicity figcaption{
@@ -8,10 +10,12 @@
     font-size: 24px;
     line-height: 26px;
     color: #FFFFFF;
-    top: 60px;
-    left: 80px;
+    top: calc(50% - 25px);
+    left: calc(50% - 76px);
 }
 
 .Publicity img{
+    max-height: 324px;
     width: 100%;
+    object-fit: cover;
 }

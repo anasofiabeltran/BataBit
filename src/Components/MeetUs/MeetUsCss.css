@@ -5,6 +5,8 @@
     text-align: center;
 }
 
+
+
 .MeetUs-principal-tittle{
     margin-bottom: 2rem;
 }
@@ -12,4 +14,12 @@
 .MeetUs-secondaru-tittle{
     color: #808080;
     margin-bottom: 2rem;
+}
+
+.MeetUs-Cards{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    place-content: center;
+    gap: 2rem;
 }
