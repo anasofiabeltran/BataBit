@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BataBit/static/css/main.fd18ffbe.css",
+    "main.js": "/BataBit/static/js/main.3f78ad8c.js",
+    "static/media/bitcoinbaby.png": "/BataBit/static/media/bitcoinbaby.69b38cca9c0b158ebb22.png",
+    "static/media/Bitcoin.png": "/BataBit/static/media/Bitcoin.b0e875468a102ad842d6.png",
+    "index.html": "/BataBit/index.html",
+    "main.fd18ffbe.css.map": "/BataBit/static/css/main.fd18ffbe.css.map",
+    "main.3f78ad8c.js.map": "/BataBit/static/js/main.3f78ad8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd18ffbe.css",
+    "static/js/main.3f78ad8c.js"
+  ]
+}
